@@ -1,0 +1,2 @@
+.accordion-item{max-height:60px;overflow:hidden;transition:max-height .5s ease-in-out}@media (max-width:768px){.tittle{margin-top:-5%}.accordion-content,.tittle{font-size:smaller}}.accordion-item.open{max-height:500px}.accordion-content{background-color:#52356f;max-height:5px;overflow:hidden;padding:12px 16px;transition:max-height .5s ease-in-out}.accordion-content.open{max-height:300px}
+/*# sourceMappingURL=122.3f2bcbd0.chunk.css.map*/
