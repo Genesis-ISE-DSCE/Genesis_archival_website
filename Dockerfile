@@ -1,11 +1,9 @@
 FROM node:14
 
-# WORKDIR /app
-
 RUN npm install -g serve
 
-COPY . .
+# WORKDIR /app
 
-EXPOSE 3000
+COPY . .
 
 CMD [ "node" , "cluster.js" ]
