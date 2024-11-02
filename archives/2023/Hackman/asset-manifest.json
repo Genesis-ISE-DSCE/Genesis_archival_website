@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec4ac3a8.css",
+    "main.js": "/static/js/main.dcb18d61.js",
+    "static/media/T&C - HACKMAN.pdf": "/static/media/T&C - HACKMAN.1e944399401aa80d0219.pdf",
+    "static/media/COC - HACKMAN.pdf": "/static/media/COC - HACKMAN.cbf71a14409997d58003.pdf",
+    "static/media/Instructions- HACKMAN.pdf": "/static/media/Instructions- HACKMAN.83eb2c2c3f26fc91a371.pdf",
+    "static/media/notopen_bg.png": "/static/media/notopen_bg.8681f2d94a35b6fae3d1.png",
+    "static/media/eva_main.jpg": "/static/media/eva_main.c7eed799859add084205.jpg",
+    "static/media/eva_bg.png": "/static/media/eva_bg.7dbb93843cebcb905a27.png",
+    "static/media/eva_login.jpg": "/static/media/eva_login.05016d6489a910d0652f.jpg",
+    "static/media/bronze.png": "/static/media/bronze.772d39e9ffcbd6fca4c4.png",
+    "static/media/silver.png": "/static/media/silver.943baef7b3e9606ea6eb.png",
+    "static/media/gold.png": "/static/media/gold.af1b78b52e15b8b23a81.png",
+    "static/media/eva_lightbgright.png": "/static/media/eva_lightbgright.e92c92fbefdf705079ba.png",
+    "static/media/eva_lightbgleft.png": "/static/media/eva_lightbgleft.a10314769212aa29a224.png",
+    "static/media/taranaQR.jpeg": "/static/media/taranaQR.7dc616513ca9eadc0717.jpeg",
+    "static/media/hackman_logo.png": "/static/media/hackman_logo.21ea3a882099bc9c4b7b.png",
+    "static/media/eva_bg_small_rig.png": "/static/media/eva_bg_small_rig.435a2b80f869c6edb5d3.png",
+    "static/media/eva_bg_small_lef.png": "/static/media/eva_bg_small_lef.bf643db284c0e3dc3024.png",
+    "index.html": "/index.html",
+    "main.ec4ac3a8.css.map": "/static/css/main.ec4ac3a8.css.map",
+    "main.dcb18d61.js.map": "/static/js/main.dcb18d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec4ac3a8.css",
+    "static/js/main.dcb18d61.js"
+  ]
+}

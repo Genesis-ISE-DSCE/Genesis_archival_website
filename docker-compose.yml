@@ -1,0 +1,14 @@
+services:
+  archival-website:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+
+    container_name: archival-website
+
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+      - "3002:3002"
+      - "3003:3003"
+      - "3004:3004"

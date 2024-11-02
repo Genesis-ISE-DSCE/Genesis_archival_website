@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9852cf6b.css",
+    "main.js": "/static/js/main.fabf82eb.js",
+    "static/media/GenesisLogo.png": "/static/media/GenesisLogo.a6ba17dca879f886dc8e.png",
+    "static/media/registration.png": "/static/media/registration.b08f843e5d66792117d6.png",
+    "static/media/catalysis4.png": "/static/media/catalysis4.e827f64a33d61bd495f8.png",
+    "static/media/Wealth Point (1).jpg": "/static/media/Wealth Point (1).5b12dfd1c0c699907913.jpg",
+    "static/media/Break Point.jpg": "/static/media/Break Point.ca1cbfcdb4e33ec3bf0b.jpg",
+    "static/media/Poster1.png": "/static/media/Poster1.636c4eab38fe111090dc.png",
+    "static/media/Hashitinerary logo.jpg": "/static/media/Hashitinerary logo.533b1a64b228807727de.jpg",
+    "index.html": "/index.html",
+    "main.9852cf6b.css.map": "/static/css/main.9852cf6b.css.map",
+    "main.fabf82eb.js.map": "/static/js/main.fabf82eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9852cf6b.css",
+    "static/js/main.fabf82eb.js"
+  ]
+}
