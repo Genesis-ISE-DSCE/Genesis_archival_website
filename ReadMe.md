@@ -24,6 +24,8 @@ This website serves as a static archival collection of websites created by the G
 ### Option 2: Using Docker
 1. Use the provided Docker Compose file to start the container:
     `docker-compose up --build`
+Note: Incase you are facing any issue with docker, you can directly pull this image from docker hub `blazerdocker61/goty` and run.
+`docker pull blazerdocker61/goty` and then `sudo docker run --rm -p 3000:3000 -p 3006:3006 -p 3005:3005 -p 3003:3003 -p 3004:3004 -d -t blazerdocker61/goty`
 
 ## How to contribute
 To add more websites to the archive:
