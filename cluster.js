@@ -4,8 +4,8 @@ const { exec } = require("child_process");
 // Define ports and file paths for each instance
 const servers = [
   { port: 3000, path: "." },
-  { port: 3001, path: "archives/2024/Hackman" },
-  { port: 3002, path: "archives/2024/Catalysis" },
+  { port: 3001, path: "archives/2024/hackman" },
+  { port: 3002, path: "archives/2024/catalysis" },
   { port: 3003, path: "archives/2023/Hackman" },
   { port: 3004, path: "archives/2023/Catalysis" },
 ];
